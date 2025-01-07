@@ -2,7 +2,7 @@ Name: Sitharth.B.S
 
 Reg No:24900657
 
-# EXP NO-5 Monitoring-soil-moisture-value-in-Thing-speak-cloud
+# EXP NO-5 Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
